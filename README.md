@@ -295,7 +295,7 @@ Selected for the **8-Week AICTE – EduSkills Virtual Internship Program** in **
 | **Advanced Skills** | DAX · PivotTables · Statistical Analysis · Advanced Visualization |
 | **Capstone** | Telecom Customer Churn Analysis |
 | **Deliverables** | Dashboards · KPIs · Insights · Executive Presentation |
-```
+
 
 
 ### Skills
