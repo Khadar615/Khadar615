@@ -369,51 +369,6 @@ Selected for the **8-Week AICTE – EduSkills Virtual Internship Program** in **
 
 </div>
 
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Khadar615&show_icons=true&count_private=true&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=Khadar615&theme=transparent&hide_border=true&background=0D0221&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadar615&layout=compact&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF" height="180"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Khadar615&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khadar615&bg_color=0D0221&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Khadar615/Khadar615/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
 
 ---
 
